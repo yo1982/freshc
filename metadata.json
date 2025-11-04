@@ -1,0 +1,5 @@
+{
+  "name": "FreshCart - AI-Powered Grocery Shopping",
+  "description": "A modern, visually appealing supermarket web application built with React and Tailwind CSS. It features product browsing, a fully functional shopping cart, and an AI-powered recipe suggester using the Gemini API to provide meal ideas based on your cart's contents.",
+  "requestFramePermissions": []
+}
